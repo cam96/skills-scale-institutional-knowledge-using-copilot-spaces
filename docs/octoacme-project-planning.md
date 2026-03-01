@@ -10,11 +10,13 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 
 ## Activities
 1. Kickoff meeting with stakeholders and delivery team
-2. Create prioritized backlog with acceptance criteria
-3. Estimate scope (T-shirt sizing or story points)
-4. Define Definition of Done (DoD)
-5. Identify dependencies and integration points
-6. Create release plan and milestone map
+2. Business Analyst facilitates requirements workshops to produce detailed requirements and process flows
+3. UX Designer produces user flows and wireframes aligned to requirements
+4. Create prioritized backlog with acceptance criteria (Business Analyst leads; Product Manager approves)
+5. Estimate scope (T-shirt sizing or story points)
+6. Define Definition of Done (DoD) — Scrum Master facilitates
+7. Identify dependencies and integration points
+8. Create release plan and milestone map
 
 ## Backlog Item Template
 - Title:
@@ -37,7 +39,15 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 
 ## Planning Checklist
 - [ ] Project kickoff held
+- [ ] Business Analyst requirements workshop completed
+- [ ] UX Designer wireframes reviewed and approved
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+
+## Related Roles
+- **Business Analyst** — leads requirements elicitation and acceptance criteria; see [Personas](./octoacme-roles-and-personas.md#business-analyst)
+- **UX Designer** — produces wireframes and user flows during planning; see [Personas](./octoacme-roles-and-personas.md#ux-designer)
+- **Scrum Master** — facilitates Definition of Done and sprint planning; see [Personas](./octoacme-roles-and-personas.md#scrum-master)
+- See also: [RACI Matrix — Planning phase](./octoacme-raci-matrix.md#lifecycle-phase-planning)
