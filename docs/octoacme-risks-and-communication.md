@@ -38,5 +38,12 @@ Incident Communication
 - Post-incident blameless retrospective scheduled
 
 ## Escalation Paths
-- Team-level -> PM -> Product Lead -> Sponsor
+- Team-level -> Scrum Master (impediment removal) -> Project Manager -> Product Lead -> Sponsor
+- Change-related risks: Project Manager and Change Manager jointly assess impact; Change Manager owns stakeholder notification and CAB approval
 - For security incidents, follow the security incident runbook and notify Security on-call
+
+## Related Roles
+- **Change Manager** — owns change advisory, stakeholder notification, and change log; see [Personas](./octoacme-roles-and-personas.md#change-manager)
+- **Scrum Master** — first point of escalation for team-level impediments; see [Personas](./octoacme-roles-and-personas.md#scrum-master)
+- **Project Manager** — owns risk register and cross-team escalation; see [Personas](./octoacme-roles-and-personas.md#project-managers)
+- See also: [RACI Matrix](./octoacme-raci-matrix.md)
